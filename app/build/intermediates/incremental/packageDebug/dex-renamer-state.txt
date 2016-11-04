@@ -1,0 +1,7 @@
+#Thu Oct 13 15:25:20 CST 2016
+base.0=/Users/dtw/Register2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d2c4b71c64a34181092f3f9c6ff5644288251932
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/dtw/Register2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e1e370f22b4b3126b87a6a4efc8704ddb94fbf0e/classes.dex
+base.1=/Users/dtw/Register2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e1e370f22b4b3126b87a6a4efc8704ddb94fbf0e
+file.0=/Users/dtw/Register2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d2c4b71c64a34181092f3f9c6ff5644288251932/classes.dex

@@ -1,0 +1,5 @@
+package com.beabow.utils;
+
+public enum WifiCipherType {
+	WIFICIPHER_WEP, WIFICIPHER_WPA, WIFICIPHER_WPA2, WIFICIPHER_NOPASS, WIFICIPHER_INVALID
+}

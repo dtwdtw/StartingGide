@@ -1,0 +1,34 @@
+<resources>
+
+    <string name="app_name">register</string>
+    <string name="back">Back</string>
+    <string name="ok" >Registration successful!</string>
+    <string name="registration_failed">Registration failed!</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+     <string name="agree">Agree</string>
+     <string name="terms_and_conditions">Terms and Conditions</string>
+     <string name="please_select_a_date">Please select a date</string>
+     <string name="please_enter_the_email">Please enter the Email</string>
+     <string name="please_enter_the_password">Please enter the password</string>
+     <string name="please_enter_the_confirm_password">Please enter the confirm password</string>
+     <string name="the_two_passwords_differ">The two passwords differ</string>
+     <string name="please_select_time">Please select time</string>
+	<string name="select_language">Select Language</string>
+	<string name="date_time_setting">Date &amp; Time Setting</string>
+	<string name="set_date">Set date</string>
+	<string name="set_time">Set time</string>
+	<string name="select_wifi">Select WI-FI</string>
+	<string name="other_networks">+Other Networks...</string>
+	<string name="add_network">Add network</string>
+	<string name="security">SECURITY</string>
+	<string name="password">Password</string>
+	<string name="confirm_password">Confirm password</string>
+	<string name="cancel">Cancel</string>
+	<string name="connect">Connect</string>
+	<string name="loding">Loading...</string>
+	<string name="ssid_er">Please input SSID</string>
+	<string name="password_er">Please input password</string>
+	<string name="register">Register</string>
+	<string name="email">Email</string>
+</resources>

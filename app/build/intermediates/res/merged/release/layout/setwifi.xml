@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+    <RadioGroup
+        android:id="@+id/radioGroup1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="18dp" >
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/select_wifi"
+        android:textColor="#00ffff"
+        android:textSize="20dp" />
+
+    <View
+        android:id="@+id/view1"
+        android:layout_width="wrap_content"
+        android:layout_height="1dp"
+        android:layout_below="@+id/title"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="5dp"
+        android:background="#00ffff" />
+
+    <Button
+        android:id="@+id/button_next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/radioGroup1"
+        android:layout_alignRight="@+id/view1"
+        android:text="@string/next" />
+    <ImageView
+        android:id="@+id/button1"
+        android:layout_width="50dp"
+        android:layout_height="10dp"
+        android:layout_above="@+id/button_next"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/page2_copy"
+        />
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/view1"
+        android:layout_alignRight="@+id/view1"
+        android:layout_below="@+id/view1"
+        android:layout_marginTop="19dp" >
+
+        <ImageButton
+            android:id="@+id/button3"
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:background="@drawable/wifi"/>
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_marginLeft="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:layout_weight="0.74"
+            android:text="WI-FI" />
+
+        <Switch
+            android:id="@+id/switch_wifi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/view2"
+        android:layout_width="fill_parent"
+        android:layout_marginTop="8dp"
+        android:layout_height="1dp"
+        android:layout_alignLeft="@+id/linearLayout1"
+        android:layout_alignRight="@+id/linearLayout1"
+        android:layout_below="@+id/linearLayout1"
+        android:background="#00ffff" />
+
+    <TextView
+        android:id="@+id/other_networks"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button1"
+        android:layout_alignLeft="@+id/view2"
+        android:textSize="17dp"
+        android:layout_marginTop="5dp"
+        android:text="@string/other_networks"/>
+
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/other_networks"
+        android:layout_alignLeft="@+id/view2"
+        android:layout_alignRight="@+id/view2"
+        android:layout_marginTop="5dp"
+        android:layout_below="@+id/view2" >
+
+    </ListView>
+
+    <Button
+        android:id="@+id/button_back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/other_networks"
+        android:layout_below="@+id/button1"
+        android:visibility="gone"
+        android:text="@string/back" />
+
+    <TextView
+        android:id="@+id/skip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_alignRight="@+id/listView"
+        android:layout_below="@+id/listView"
+        android:layout_marginRight="30dp"
+        android:textSize="17dp"
+        android:text="@string/skip" />
+
+</RelativeLayout>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_black">#000000</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_notice_white">#C2C5C5</color>
+    <color name="text_notice_red">#FF0000</color>
+    <color name="transparent">#00000000</color>
+    <color name="title_bar">#2470CD</color>
+    <color name="login_dropdown_item">#F5E6CC</color>
+    <color name="listview_text_gray">#959595</color>
+    <color name="divider_white">#484D51</color>
+    <color name="list_item_divider">#D3DCBF</color>
+    <color name="blue">#0001FE</color>
+     <color name="febm_bar">#F9F9F9</color>
+    <color name="lightblue">#0001F0</color>
+    <color name="gray">#EEEEEE</color>
+    <color name="dark_gray">#666666</color>
+    <color name="dull_grey">#999999</color>
+    <color name="red">#cc0033</color>
+     <color name="line_gray">#C8C7CC</color>
+     <color name="title_orange">#FF9224</color>
+     
+</resources>

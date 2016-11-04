@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/dtw/Register2/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/dtw/Register2/app/build/intermediates/pre-dexed/release/com.android.support-design-23.4.0_d6844badf60f8dc816eacbe006e1bd37510c1c5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dtw/Register2/app/libs/plugin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="62d52d8ba54fe31dee6fa0b6fda8d104c4d40e4a">
+        <dex dex="/Users/dtw/Register2/app/build/intermediates/pre-dexed/release/plugin_d5b80a632738411b7396a1ecea5759afba715366.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dtw/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/dtw/Register2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_9dd4fa5104fe592a32053a91908e78ff15e077ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dtw/Register2/app/libs/sun.misc.BASE64Decoder.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="acd93e3727886196f9b8434279ff445ba8611186">
+        <dex dex="/Users/dtw/Register2/app/build/intermediates/transforms/dex/debug/folders/1000/2/sun.misc.BASE64Decoder_061f7a102a38a096a45226529b46eeba428ba971/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dtw/Register2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/dtw/Register2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_49f214acf315d43eef1bf53f77a135774a7e1430/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dtw/Register2/app/libs/sun.misc.BASE64Decoder.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="acd93e3727886196f9b8434279ff445ba8611186">
+        <dex dex="/Users/dtw/Register2/app/build/intermediates/pre-dexed/release/sun.misc.BASE64Decoder_061f7a102a38a096a45226529b46eeba428ba971.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dtw/Register2/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/dtw/Register2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_d6844badf60f8dc816eacbe006e1bd37510c1c5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dtw/Register2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="f17ad3990ae6cfe557ceb0542d41f5f36ea64064">
+        <dex dex="/Users/dtw/Register2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d2c4b71c64a34181092f3f9c6ff5644288251932/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dtw/Register2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/dtw/Register2/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-23.4.0_49f214acf315d43eef1bf53f77a135774a7e1430.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dtw/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/dtw/Register2/app/build/intermediates/pre-dexed/release/support-annotations-23.4.0_9dd4fa5104fe592a32053a91908e78ff15e077ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dtw/Register2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/dtw/Register2/app/build/intermediates/pre-dexed/release/internal_impl-23.4.0_b440b6e7a6bd6f9411070edea470d941063ccf33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dtw/Register2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/dtw/Register2/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-23.4.0_d7cf308f57a15d785b45fcf49bfac2ba874ce8a5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dtw/Register2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/dtw/Register2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_d7cf308f57a15d785b45fcf49bfac2ba874ce8a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dtw/Register2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/dtw/Register2/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.4.0_ebb12bd6020da1675ba2cc3ccf83e1ea6300457e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dtw/Register2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/dtw/Register2/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.4.0_1f523624fb10ea424662e6cebc63f27f2db00c0e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dtw/.gradle/caches/modules-2/files-2.1/org.jbundle.util.osgi.wrapped/org.jbundle.util.osgi.wrapped.org.apache.http.client/4.1.2/98c86e42679fe7ac066f6c242e0d14f0bce0bb7c/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="/Users/dtw/Register2/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_c65d019293feb20a112e2f7e23ffea73fec7548e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dtw/Register2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/dtw/Register2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_1f523624fb10ea424662e6cebc63f27f2db00c0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dtw/.gradle/caches/modules-2/files-2.1/org.jbundle.util.osgi.wrapped/org.jbundle.util.osgi.wrapped.org.apache.http.client/4.1.2/98c86e42679fe7ac066f6c242e0d14f0bce0bb7c/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="/Users/dtw/Register2/app/build/intermediates/pre-dexed/release/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_c65d019293feb20a112e2f7e23ffea73fec7548e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dtw/Register2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="337e5ff1f520170f24c3fa737fe7d3a0c4004026">
+        <dex dex="/Users/dtw/Register2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e1e370f22b4b3126b87a6a4efc8704ddb94fbf0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dtw/Register2/app/libs/plugin.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="62d52d8ba54fe31dee6fa0b6fda8d104c4d40e4a">
+        <dex dex="/Users/dtw/Register2/app/build/intermediates/transforms/dex/debug/folders/1000/2/plugin_d5b80a632738411b7396a1ecea5759afba715366/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dtw/Register2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/dtw/Register2/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-23.4.0_9e4d7cc69154dad5c25f48380aa8f2e75835ba3d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dtw/Register2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/dtw/Register2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_ebb12bd6020da1675ba2cc3ccf83e1ea6300457e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dtw/Register2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/dtw/Register2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_9e4d7cc69154dad5c25f48380aa8f2e75835ba3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dtw/Register2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/dtw/Register2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_b440b6e7a6bd6f9411070edea470d941063ccf33/classes.dex" />
+    </item>
+
+</items>
